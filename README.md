@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-Welcome to my personal portfolio website repository! This website serves as a showcase of my web development and design projects, skills, and achievements. You can visit the live site here: [www.yourwebsite.com](www.yourwebsite.com)
+Welcome to my personal portfolio website repository! This website serves as a showcase of my web development and design projects, skills, and achievements.
 
 ## Table of Contents
 - [About](#about)
@@ -20,15 +20,11 @@ This personal portfolio website was designed and developed to provide an interac
 - Responsive Design: The website is designed to be accessible and look great on various devices and screen sizes.
 - Project Showcase: An interactive project gallery with detailed descriptions and links to individual project pages.
 - Contact Form: A user-friendly contact form for inquiries and feedback.
-- Blog Section: A dedicated blog area for sharing insights and articles related to web development.
-- SEO Optimization: Utilizes SEO best practices for improved visibility and search engine ranking.
 
 ## Technologies Used
 
 - HTML
 - CSS
-- JavaScript (if applicable)
-- [Any other technologies or frameworks you've used]
 
 ## Getting Started
 
@@ -36,7 +32,6 @@ To get a local copy of this project up and running, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Open the project folder using your preferred code editor.
-3. [Additional setup instructions if needed]
 
 ## Usage
 
@@ -51,10 +46,6 @@ If you'd like to contribute to this project, please follow these guidelines:
 3. Make your changes and test them thoroughly.
 4. Create a pull request, providing a clear description of your changes.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute this code as long as you provide proper attribution.
-
 ---
 
-Thank you for visiting my portfolio website repository! If you have any questions or feedback, feel free to [contact me](mailto:your.email@example.com).
+Thank you for visiting my portfolio website repository! If you have any questions or feedback, feel free to [contact me](mailto: purviljain008@gmail.com).
