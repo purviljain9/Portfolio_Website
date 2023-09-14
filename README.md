@@ -9,7 +9,6 @@ Welcome to my personal portfolio website repository! This website serves as a sh
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
@@ -48,4 +47,4 @@ If you'd like to contribute to this project, please follow these guidelines:
 
 ---
 
-Thank you for visiting my portfolio website repository! If you have any questions or feedback, feel free to [contact me](mailto: purviljain008@gmail.com).
+Thank you for visiting my portfolio website repository! If you have any questions or feedback, feel free to contact me (mailto: purviljain008@gmail.com).
